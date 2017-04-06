@@ -18,6 +18,7 @@
 		<property name="locations">
 			<list>
 				<value>classpath:system.properties</value>
+				<value>classpath:http.properties</value>
 			</list>
 		</property>
 	</bean>
